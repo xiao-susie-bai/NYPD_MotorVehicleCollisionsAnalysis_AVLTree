@@ -1,5 +1,4 @@
-# New York City Motor Vehicle Collisions Analysis based on NYPD open source data
-**(using AVL Tree data structure)**
+# New York City Motor Vehicle Collisions Analysis based on NYPD open source data with AVL Tree
 
 This project provides a command-line-based tool for extracting specified types of information about motor vehicle collisions in New York City according to the user inquiries and producing detail reports to display for specified zip codes and time frames. Mainly the AVL tree data structure is used in implementation for pinpointing the exact information in the data. This project is developed in Java.
 
